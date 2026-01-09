@@ -18,7 +18,7 @@
     },
     "xiangjiao": {
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/",
-      "name": "hs",
+      "name": "xiangjiao",
       "detail": "https://www.xiangjiaozyw.com"
     }
   }
